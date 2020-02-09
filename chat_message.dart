@@ -7,7 +7,7 @@ class ChatMessage extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return new Container(
-      margin: const EdgeInsets.symmetric(vertical: 4.0),
+      margin: const EdgeInsets.symmetric(vertical: 5.0),
       child: new Row(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
