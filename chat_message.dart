@@ -3,7 +3,6 @@ const String _name = "User2";
 class ChatMessage extends StatelessWidget{
   final String text;
   ChatMessage({this.text});
-
   @override
   Widget build(BuildContext context){
     return new Container(
