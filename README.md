@@ -1,4 +1,5 @@
-# flutter_new
+# The Flutter Chat App
+The Flutter chat app has an avatar image.
 
 A new Flutter application.
 
