@@ -1,5 +1,5 @@
 # The Flutter Chat App
-The Flutter chat app has an avatar image and a text holder so that we can write a message in that and the output will br appended in the list
+The Flutter chat app has an avatar image and a text holder so that we can write a message in that and the output will be appended in the list and printed in the reverse order as conversation. 
 
 A new Flutter application.
 
