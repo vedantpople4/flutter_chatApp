@@ -1,5 +1,5 @@
 # The Flutter Chat App
-The Flutter chat app has an avatar image.
+The Flutter chat app has an avatar image and a text holder so that we can write a message in that and the output
 
 A new Flutter application.
 
